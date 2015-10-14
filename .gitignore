@@ -1,2 +1,5 @@
 bin/
 src/.idea/
+src/public/
+src/templates/
+src/NoCigar/gowebapp/public/
