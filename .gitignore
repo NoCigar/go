@@ -1,4 +1,5 @@
 bin/
+lib/
 src/.idea/
 src/public/
 src/templates/
